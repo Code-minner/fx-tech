@@ -11,7 +11,7 @@
 :root {
     --primary_color: #ffffff;
     --secondary_color: #181818;
-    --tertiary_color: #ffd900c8;
+    --tertiary_color: #ffd900c8;H
     --text_color: #555555;
     --header_color: #000000;
     --general_color: whitesmoke;
@@ -36,6 +36,7 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 0 10px;
     width: 100%;
     height: 100%;
 }
